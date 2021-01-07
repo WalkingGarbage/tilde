@@ -17,6 +17,7 @@ generic Google search will be triggered. For example:
 - Entering `t` would redirect you to [twitch.tv](https://www.twitch.tv).
 - Entering `cats` would search
   [Google for "cats"](https://encrypted.google.com/search?q=cats).
+- Entering `c`would redirect you to [google classroom](https://classroom.google.com/u/1/).
 
 ### Searching
 
