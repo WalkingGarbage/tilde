@@ -16,6 +16,8 @@ generic Google search will be triggered. For example:
 - Entering `r` would redirect you to [www.reddit.com](https://www.reddit.com).
 - Entering `t` would redirect you to [twitch.tv](https://www.twitch.tv).
 - Entering `c`would redirect you to [google classroom](https://classroom.google.com/u/1/) (automatically logs in with your second google account).
+- Entering `w` would redirect you to [whatsapp web](https://web.whatsapp.com).
+- Entering `w2` would redirect you to [waifu2x image upscaler](http://waifu2x.udp.jp/).
 - Entering `cats` would search
   [Google for "cats"](https://encrypted.google.com/search?q=cats).
 
